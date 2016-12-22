@@ -1,4 +1,5 @@
 {
+  "manifest": {
   "version": "1.0.0",
   "bundles": [
     {
@@ -12,7 +13,8 @@
       "uri": "main",
       "pkg": "com.example.android.app.main"
     }
-  ],
+  ]
+ },
     "updates":[
     {
       "pkg": "com.example.android.app.login",
