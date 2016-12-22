@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "login",
+      "pkg": "com.example.android.app.login"
+    },
+    {
+      "uri": "main",
+      "pkg": "com.example.android.app.main"
+    }
+  ],
+    "updates":[
+    {
+      "pkg": "com.example.android.app.login",
+      "url": "http://wequick.github.io/small/upgrade/libnet_wequick_example_small_app_about.so"
+    }
+  ]
+}
