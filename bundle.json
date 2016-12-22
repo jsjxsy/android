@@ -13,7 +13,7 @@
     "updates":[
     {
       "pkg": "com.example.android.app.login",
-      "url": "http://wequick.github.io/small/upgrade/libnet_wequick_example_small_app_about.so"
+      "url": "https://raw.githubusercontent.com/jsjxsy/android/master/libcom_example_android_app_login.so"
     }
   ]
 }
