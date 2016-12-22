@@ -3,7 +3,10 @@
   "bundles": [
     {
       "uri": "login",
-      "pkg": "com.example.android.app.login"
+      "pkg": "com.example.android.app.login",
+      "rules": {
+        "page1": ".MainActivity"
+      }
     },
     {
       "uri": "main",
