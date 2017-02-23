@@ -25,7 +25,7 @@
       "url": "https://raw.githubusercontent.com/jsjxsy/android/master/libcom_example_android_app_login.so"
     },
     {
-      "pkg": "com.example.android.app.detail",
+      "pkg": "com.youximao.demo.app.detail",
       "url": "https://raw.githubusercontent.com/jsjxsy/android/master/test2/libcom_youximao_demo_app_detail.so"
     }
   ]
