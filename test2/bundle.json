@@ -1,0 +1,32 @@
+{
+  "manifest": {
+  "version": "1.0.0",
+  "bundles": [
+    {
+      "uri": "login",
+      "pkg": "com.example.android.app.login",
+      "rules": {
+        "page1": ".MainActivity"
+      }
+    },
+    {
+      "uri": "main",
+      "pkg": "com.example.android.app.main"
+    },
+    {
+      "uri": "detail",
+      "pkg": "com.youximao.demo.app.detail"
+    }
+  ]
+ },
+    "updates":[
+    {
+      "pkg": "com.example.android.app.login",
+      "url": "https://raw.githubusercontent.com/jsjxsy/android/master/libcom_example_android_app_login.so"
+    },
+    {
+      "pkg": "com.example.android.app.detail",
+      "url": "https://raw.githubusercontent.com/jsjxsy/android/master/libcom_example_android_app_login.so"
+    }
+  ]
+}
