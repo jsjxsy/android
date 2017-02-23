@@ -3,21 +3,50 @@
   "version": "1.0.0",
   "bundles": [
     {
-      "uri": "login",
-      "pkg": "com.example.android.app.login",
-      "rules": {
-        "page1": ".MainActivity"
-      }
+      "uri": "main",
+      "pkg": "com.youximao.demo.app.main"
     },
     {
-      "uri": "main",
-      "pkg": "com.example.android.app.main"
+      "uri": "floatwindow",
+      "pkg": "com.example.app.floatwindow"
+    },
+    {
+      "uri": "forum",
+      "pkg": "com.youximao.demo.app.forum"
+    },
+    {
+      "uri": "pay",
+      "pkg": "com.youximao.demo.app.pay"
+    },
+    {
+      "uri": "peckgifts",
+      "pkg": "com.youximao.demo.app.peckgifts"
+    },
+    {
+      "uri": "personal",
+      "pkg": "com.youximao.demo.app.personal"
+    },
+    {
+      "uri": "splash",
+      "pkg": "com.youximao.demo.app.splash"
+    },
+    {
+      "uri": "usercenter",
+      "pkg": "com.youximao.demo.app.usercenter"
+    },
+    {
+      "uri": "lib.alianalytics",
+      "pkg": "com.youximao.demo.app.alianalytics"
+    },
+    {
+      "uri": "lib.common",
+      "pkg": "com.youximao.demo.lib.common"
     }
   ]
  },
     "updates":[
     {
-      "pkg": "com.example.android.app.login",
+      "pkg": "com.youximao.demo.app.pay",
       "url": "https://raw.githubusercontent.com/jsjxsy/android/master/libcom_example_android_app_login.so"
     }
   ]
