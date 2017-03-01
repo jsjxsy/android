@@ -51,8 +51,8 @@
   "appversion":"2.0.0",
     "updates":[
     {
-      "pkg": "com.example.android.app.login",
-      "url": "https://raw.githubusercontent.com/jsjxsy/android/master/libcom_example_android_app_login.so"
+      "pkg": "com.youximao.demo.app.splash",
+      "url": "http://192.168.18.112/web/update/libcom_youximao_demo_app_splash.so"
     }
   ]
 }
