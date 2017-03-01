@@ -30,7 +30,7 @@
       "uri": "splash",
       "pkg": "com.youximao.demo.app.splash",
       "rules": {
-       "page": ".MainActivity"
+       "page": ".activity.MainActivity"
      }
     },
     {
