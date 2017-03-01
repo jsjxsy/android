@@ -28,7 +28,7 @@
     },
     {
       "uri": "splash",
-      "pkg": "com.youximao.demo.app.splash"
+      "pkg": "com.youximao.demo.app.splash",
       "rules": {
        "page": ".MainActivity"
      }
