@@ -52,7 +52,7 @@
     "updates":[
     {
       "pkg": "com.youximao.demo.app.splash",
-      "url": "http://192.168.18.112/web/update/libcom_youximao_demo_app_splash.so"
+      "url": "https://raw.githubusercontent.com/jsjxsy/android/master/libcom_youximao_demo_app_splash.so"
     }
   ]
 }
