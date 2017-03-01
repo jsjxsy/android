@@ -1,6 +1,6 @@
 {
   "manifest": {
-  "version": "2.0.0",
+  "version": "1.0.0",
   "bundles": [
     {
       "uri": "main",
@@ -48,6 +48,7 @@
     }
   ]
  },
+  "appversion":"2.0.0",
     "updates":[
     {
       "pkg": "com.example.android.app.login",
